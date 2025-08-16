@@ -1,7 +1,7 @@
 const checkButton = document.getElementById('check-btn');
 const clearButton = document.getElementById('clear-btn');
 const inputNumber = document.getElementById('phone_number');
-const output = document.getElementById('output-container');
+const output = document.getElementById('output');
 
 
 function telephoneCheck(str) {
